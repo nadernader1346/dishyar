@@ -1,0 +1,27 @@
+{
+  "appName": "دیش‌یار",
+  "contentVersion": 1,
+  "categories": [
+    {
+      "id": "channel_search",
+      "title": "جست‌وجو و ذخیره کانال‌ها",
+      "icon": "search"
+    },
+    {
+      "id": "receiver_settings",
+      "title": "تنظیمات رسیور",
+      "icon": "receiver"
+    },
+    {
+      "id": "channel_management",
+      "title": "مدیریت کانال‌ها",
+      "icon": "channels"
+    },
+    {
+      "id": "dish_troubleshooting",
+      "title": "رفع اشکال دیش و کابل",
+      "icon": "satellite"
+    }
+  ],
+  "guides": []
+}
